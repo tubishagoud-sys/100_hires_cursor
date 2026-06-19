@@ -1,136 +1,108 @@
-##### Portfolio Project Setup - Initial Submission
+LinkedIn Organic Content Strategy for B2B SaaS
 
-Overview
+Project Overview
 
+This repository contains research on LinkedIn Organic Content Strategy for B2B SaaS companies.
 
+The objective was to identify leading practitioners, analyze their recent LinkedIn content and long-form educational content, and extract patterns that can later be used to build a practical B2B SaaS LinkedIn playbook.
 
-This repository was created as part of a portfolio project assignment. The objective of this stage was to install the required development tools, create a GitHub repository, document the setup process, and publish the repository publicly.
+Research Topic
 
+LinkedIn Organic Content Strategy for B2B SaaS
 
+Experts Researched
 
-Tools Installed
+1. Amanda Natividad
+2. Kieran Flanagan
+3. Ross Hudgens
+4. Dave Gerhardt
+5. Adam Robinson
+6. Elena Verna
+7. Henry Schuck
+8. Girish Mathrubootham
+9. Suresh Sambandam
+10. Praval Singh
 
-1\. Cursor IDE
+Repository Structure
+research/
 
-Downloaded and installed Cursor IDE.
+├── sources.md
 
-Verified successful installation by opening the application and creating a workspace.
+├── linkedin-posts/
 
-2\. Claude Code Extension
+│ ├── amanda-natividad.md
 
-Opened the Extensions marketplace in Cursor.
+│ ├── kieran-flanagan.md
 
-Searched for "Claude Code".
+│ ├── ross-hudgens.md
 
-Installed the extension.
+│ ├── dave-gerhardt.md
 
-Logged into the extension successfully.
+│ ├── adam-robinson.md
 
-3\. Codex Extension
+│ ├── elena-verna.md
 
-Opened the Extensions marketplace in Cursor.
+│ ├── henry-schuck.md
 
-Searched for "Codex".
+│ ├── girish-mathrubootham.md
 
-Installed the extension.
+│ ├── suresh-sambandam.md
 
-Logged into the extension successfully.
+│ └── praval-singh.md
 
-4\. Git
+├── youtube-transcripts/
 
-Used Git for version control.
+│ ├── amanda-natividad.md
 
-Configured Git credentials and connected the local repository to GitHub.
+│ ├── kieran-flanagan.md
 
-5\. GitHub
+│ ├── ross-hudgens.md
 
-Created a GitHub account (if required).
+│ ├── dave-gerhardt.md
 
-Created a public repository for this project.
+│ ├── adam-robinson.md
 
-Steps Completed
+│ ├── elena-verna.md
 
-Installed Cursor IDE.
+│ ├── henry-schuck.md
 
-Installed and configured the Claude Code extension.
+│ ├── girish-mathrubootham.md
 
-Installed and configured the Codex extension.
+│ ├── suresh-sambandam.md
 
-Created a public GitHub repository.
+│ └── praval-singh.md
 
-Opened the repository in Cursor IDE.
+└── other/
 
-Created this README.md file.
+└── observations.md
 
-Initialized the repository with Git.
+Selection Criteria
 
-Committed the README.md file.
+Experts were selected based on:
 
-Pushed the repository to GitHub.
+- Active involvement in B2B SaaS marketing or leadership
+- Consistent LinkedIn content creation
+- Availability of long-form educational content
+- Demonstrated real-world execution experience
+- Strong influence within SaaS, growth, marketing, or founder communities
 
-Verified that the repository is publicly accessible.
+Key Research Findings
 
-Issues Encountered and Solutions
+- AI is reshaping content creation and distribution.
+- Audience trust is becoming more valuable than traffic.
+- Founder-led content consistently performs well.
+- Community-led growth is increasingly important.
+- Content distribution is as important as content creation.
+- Long-form educational content builds authority.
+- Authenticity outperforms overly promotional content.
 
-Issue 1: Extension Login Configuration
+Methodology
 
-
-
-While setting up the AI extensions, authentication and account setup required additional configuration.
-
-
-
-Solution:
-
-Followed the extension setup instructions and completed the login process using the appropriate account credentials.
-
-
-
-Issue 2: GitHub Repository Connection
-
-
-
-Initially, linking the local repository with the remote GitHub repository required configuring the correct remote URL.
-
-
-
-Solution:
-
-Used Git commands to add the GitHub repository as the remote origin and verified the connection before pushing changes.
-
-
-
-Issue 3: First Git Push
-
-
-
-The first push required establishing the upstream branch.
-
-
-
-Solution:
-
-Used the appropriate Git push command to connect the local branch with the remote repository and successfully uploaded the project files.
-
-
-
-Skills Demonstrated
-
-Software installation and configuration
-
-IDE setup and extension management
-
-Git version control
-
-GitHub repository management
-
-Documentation writing
-
-Independent troubleshooting and problem-solving
-
-Repository Status
-
-
-
-All required setup steps have been completed successfully, and the repository has been published to GitHub.
-
+- Identified 10 B2B SaaS practitioners.
+- Collected and reviewed recent LinkedIn posts.
+- Reviewed selected YouTube interviews and educational content.
+- Documented recurring themes and strategic insights.
+- Organized findings into structured research files.
+
+Outcome
+This repository serves as a foundation for building a future B2B SaaS LinkedIn Organic Content Playbook based on practitioner-led research.
